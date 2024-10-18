@@ -6,4 +6,8 @@ El cuaderno que crea y entrena los modelos de machine learning ha sido entrenado
 * Base de datos relacional
 * Dashboard
 * Machine learning  
+<<<<<<< HEAD
 Informe ejecutivo y propuesta de IA generativa en carpeta Documentos.
+=======
+Informe ejecutivo y propuesta de IA generativa en carpeta Documentos.
+>>>>>>> e67bce61d3b6faccd4027152ffc7803943d64525
