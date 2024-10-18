@@ -5,5 +5,5 @@ El cuaderno que crea y entrena los modelos de machine learning ha sido entrenado
 * Limpieza
 * Base de datos relacional
 * Dashboard
-* Machine learning
+* Machine learning  
 Informe ejecutivo y propuesta de IA generativa en carpeta Documentos.
